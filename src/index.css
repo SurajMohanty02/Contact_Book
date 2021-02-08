@@ -1,0 +1,10 @@
+.visible {
+  opacity: 0;
+}
+tr:hover .visible {
+  opacity: 1;
+}
+.bg:hover {
+  background-color: darkgrey;
+  color: white;
+}
